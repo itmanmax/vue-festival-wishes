@@ -1,13 +1,17 @@
 # Vue Festival Wishes
 
-A small Vue-based festival greeting page for creating warm, animated wish pages.
+一个基于 Vue 的节日祝福页面项目，用来制作轻量、温暖、可个性化的祝福展示页。
 
-## Highlights
+## 项目介绍
 
-- Built with Vue.
-- Focused on lightweight festive greetings and simple visual presentation.
-- Kept as a public creative/front-end practice project.
+这个仓库保留为公开的前端创意练习项目。它更适合作为小型页面、节日互动页、祝福卡片页面的实现参考，而不是完整产品。
 
-## Status
+## 特点
 
-This repository is preserved as a personal creative project. Future updates should focus on polishing the UI, simplifying setup, and documenting deployment steps.
+- 使用 Vue 构建。
+- 适合节日祝福、纪念日页面、简单互动展示。
+- 重点在页面氛围、动效和文案表达。
+
+## 当前状态
+
+项目继续公开保留。后续如果维护，优先补充运行方式、部署方式、页面截图和可配置文案说明。
