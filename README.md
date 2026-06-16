@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+# Vue Festival Wishes
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A small Vue-based festival greeting page for creating warm, animated wish pages.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Highlights
+
+- Built with Vue.
+- Focused on lightweight festive greetings and simple visual presentation.
+- Kept as a public creative/front-end practice project.
+
+## Status
+
+This repository is preserved as a personal creative project. Future updates should focus on polishing the UI, simplifying setup, and documenting deployment steps.
